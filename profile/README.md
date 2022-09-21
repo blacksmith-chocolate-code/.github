@@ -1,6 +1,6 @@
 # Blacksmith chocolate code ⚔️ 🍫 🧑🏽‍💻
 
-Forging chocolate code to help others
+Forging chocolate into code to help others
 
 ## 💌 Greetings
 Hi you all,
