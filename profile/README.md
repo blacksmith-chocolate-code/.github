@@ -1,10 +1,10 @@
 # Blacksmith chocolate code ⚔️ 🍫 🧑🏽‍💻
 
-Forging chocolate into code to help others
+Forging chocolate into code to make a better world.
 
 ## 💌 Greetings
 Hi you all,
-We are a group of developers using our technical skills to help charity organizations.
+We are a group of developers using our technical skills to help charity organizations to automatize tasks
 
 ## 🍿 Fun facts
 
